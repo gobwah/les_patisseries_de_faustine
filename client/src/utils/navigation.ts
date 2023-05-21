@@ -1,6 +1,6 @@
 export const navbar = [
-	{ name: "Product", href: "/product" },
-	{ name: "Features", href: "/features" },
-	{ name: "Marketplace", href: "/marketplace" },
-	{ name: "Company", href: "/company" },
+	{ name: "acceuil", href: "/" },
+	{ name: "à propos", href: "apropos" },
+	{ name: "pâtisseries", href: "/patisseries" },
+	{ name: "contact", href: "/contact" },
 ];
